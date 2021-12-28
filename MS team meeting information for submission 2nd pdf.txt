@@ -1,0 +1,19 @@
+
+MS teams link 1st meeting 22/12/21 8pm
+
+Join link - https://teams.microsoft.com/l/message/19:in82F7naxyQQnaUUoGR_XBKbfvTcvvIuCyyGMbmXd1w1@thread.tacv2/1639995596510?tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b&groupId=1616574a-ea23-4d2c-afd8-d5a5e30c9916&parentMessageId=1639995596510&teamName=A2%20Group%20%23%201%20RMIT&channelName=General&createdTime=1639995596510
+recording url - https://rmiteduau.sharepoint.com/sites/A2Group1RMIT/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20211222_170110-Meeting%20Recording.mp4?web=1
+
+summary of topics covered
+
+-git hub url, url repository and editing procedure to notify memebers of changes to the repository in the team chat field
+-topics covered -carl _autonomous driving, robots
+		-jordan _machine learning
+		-Sabina _cybersecurity
+
+-project 	-machine learning program
+		-**resume builder webside**chosen option
+		-"Avaliable me" dating app
+		-or an alternative idea
+attendees 3, sabina, jordan, carl
+
