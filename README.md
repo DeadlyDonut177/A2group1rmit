@@ -6,4 +6,4 @@ Current participants:
 Carl
 Sabina
 Jordan
-CHristoffel
+Christoffel
